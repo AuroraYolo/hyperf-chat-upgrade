@@ -1,3 +1,9 @@
+# 此项目被移植到了https://github.com/Hyperf-Glory/hyperf-chat 该分支不会继续开发了
+
+
+
+
+
 ## 请暂时不要用于生产环境
 项目还在开发优化中
 ## Hyperf-Chat-Upgrade
